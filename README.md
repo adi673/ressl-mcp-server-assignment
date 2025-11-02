@@ -1,7 +1,4 @@
-Got it 😄 — here’s your **README.md content in a normal, clean format** (no nested code blocks, no weird formatting).
-Just copy this whole thing into your `README.md` file and you’re good to go ✅
 
----
 
 # Ressl AI Assignment – Task 2: MCP Server (Node.js)
 
@@ -15,7 +12,7 @@ The server provides a single tool named **`search_keyword`** that searches for a
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/ressl-mcp-server.git
+git clone https://github.com/adi673/ressl-mcp-server-assignment.git
 cd ressl-mcp-server
 ```
 
@@ -84,7 +81,7 @@ Line 10: Let's add another keyword here to verify multiple matches.
 
 ## 🔗 Repository Link
 
-GitHub: [https://github.com/<your-username>/ressl-mcp-server](https://github.com/<your-username>/ressl-mcp-server)
+GitHub: [https://github.com/adi673/ressl-mcp-server-assignment.git](https://github.com/adi673/ressl-mcp-server-assignment.git)
 
 ---
 
