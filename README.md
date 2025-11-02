@@ -84,7 +84,7 @@ Line 10: Let's add another keyword here to verify multiple matches.
 
 ## 🔗 Repository Link
 
-GitHub: [https://github.com/<your-username>/ressl-mcp-server](https://github.com/<your-username>/ressl-mcp-server)
+GitHub: [https://github.com/<your-username>/ressl-mcp-server]([https://github.com/<your-username>/ressl-mcp-server](https://github.com/adi673/ressl-mcp-server-assignment))
 
 ```
 
