@@ -85,6 +85,4 @@ GitHub: [https://github.com/adi673/ressl-mcp-server-assignment.git](https://gith
 
 ---
 
-✅ **Usage:**
-Save this file as **README.md** in your project root and replace `<your-username>` with your actual GitHub username.
-This will make your repository look clean, professional, and focused on how to build, run, and test your MCP server.
+
