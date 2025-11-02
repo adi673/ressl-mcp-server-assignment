@@ -1,12 +1,11 @@
-Got it 😄 — here’s a **clean, minimal `README.md`** that focuses **only on how to install, build, run, and test** your MCP server.
-It’s short, practical, and perfect to include in your GitHub repo 👇
+Got it 😄 — here’s your **README.md content in a normal, clean format** (no nested code blocks, no weird formatting).
+Just copy this whole thing into your `README.md` file and you’re good to go ✅
 
 ---
 
-````markdown
 # Ressl AI Assignment – Task 2: MCP Server (Node.js)
 
-This project implements a **Model Context Protocol (MCP) server** using Node.js and the official `@modelcontextprotocol/sdk`.  
+This project implements a **Model Context Protocol (MCP) server** using Node.js and the official `@modelcontextprotocol/sdk`.
 The server provides a single tool named **`search_keyword`** that searches for a given keyword inside a text file.
 
 ---
@@ -14,10 +13,11 @@ The server provides a single tool named **`search_keyword`** that searches for a
 ## 🛠️ How to Run the Project
 
 ### 1️⃣ Clone the Repository
+
 ```bash
 git clone https://github.com/<your-username>/ressl-mcp-server.git
 cd ressl-mcp-server
-````
+```
 
 ### 2️⃣ Install Dependencies
 
@@ -63,7 +63,7 @@ This will open **MCP Inspector** in your browser (usually at `http://localhost:5
 
 ### Step 3 – Provide Sample Input
 
-* **filePath:** Full path to your sample file (e.g., `C:\\Users\\Aditya\\Downloads\\Ressl\\sample.txt`)
+* **filePath:** Full path to your sample file (e.g., `C:\Users\Aditya\Downloads\Ressl\sample.txt`)
 * **keyword:** The word you want to search (e.g., `keyword`)
 
 Click **Run Tool** and view the results in the output panel.
@@ -84,14 +84,10 @@ Line 10: Let's add another keyword here to verify multiple matches.
 
 ## 🔗 Repository Link
 
-GitHub: [https://github.com/<your-username>/ressl-mcp-server]([https://github.com/<your-username>/ressl-mcp-server](https://github.com/adi673/ressl-mcp-server-assignment))
-
-```
+GitHub: [https://github.com/<your-username>/ressl-mcp-server](https://github.com/<your-username>/ressl-mcp-server)
 
 ---
 
-✅ **Usage:**  
-Copy the above content into a file named **`README.md`** and replace `<your-username>` with your GitHub username.  
-
-This will make your repo look clean and professional — focused purely on **how to build, run, and test** your MCP server.
-```
+✅ **Usage:**
+Save this file as **README.md** in your project root and replace `<your-username>` with your actual GitHub username.
+This will make your repository look clean, professional, and focused on how to build, run, and test your MCP server.
